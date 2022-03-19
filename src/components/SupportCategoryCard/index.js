@@ -8,10 +8,6 @@ const SupportCategoryCard = ({ data }) => {
 
   const { document } = data.category
   const { title, image } = document.data
-  console.log('data loop', document)
-  // const author =
-  //   post.author && post.author.document && post.author.document.data
-  // const { featured_image, title, read_time_in_minutes } = post
   const postLink = `/support/category/${document.uid}/`
   return (
     <ItemBox>

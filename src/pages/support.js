@@ -12,7 +12,6 @@ import bg from "../images/support/bg1.png"
 
 const Support = ({ data, pageContext, location }) => {
   const edges = data.prismicSupport.data.body
-  console.log('data', edges)
 
   return (
     <Layout
