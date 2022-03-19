@@ -544,9 +544,7 @@ const createSupportArticlePages = new Promise((resolve, reject) => {
       const categories = result.data.allPrismicSupportCategory.edges
 
       categories.forEach(({ node }) => {
-          console.log('category uid', node.uid)
           const articles = node.data.articles   
-          console.log('category articles', articles.length)
           if(articles.length>0){
             articles.forEach(({ article }) => {
               if(article.document && article.document.uid)

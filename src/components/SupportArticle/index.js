@@ -8,7 +8,6 @@ import Container from "../common/Container"
 import { Heading, Item } from "./styles"
 
 const SupportArticle = ({ data }) => {
-  console.log('article data', data)
   const { title, body } = data.data
   return (
     <Item>

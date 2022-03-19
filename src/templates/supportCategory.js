@@ -12,9 +12,6 @@ import SupportBreadcrumbs from "../components/SupportBreadcrumbs"
 const Template = ({ data, pageContext, location }) => {
   const { title, articles } = data.CategoryData.data
 
-  console.log('All Articles', articles)
-
-  console.log('articles', articles)
   const bcrumb = [
     { 'name': 'Support', 'link': '/support/' },
     { 'name': title.text, 'link': null }

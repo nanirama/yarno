@@ -2,7 +2,7 @@ import React, { Fragment } from "react"
 import { Link } from "gatsby"
 
 const SupportCategorySidebar = ({ data, categoryUrl }) => {
-  console.log('articles data', data)
+ 
 
   return (
     <ul>
