@@ -7,7 +7,7 @@ import SupportIndex from "../components/SupportIndex"
 import SupportContact from "../components/SupportContact"
 import SupportArticleSearch from "../components/SupportArticleSearch"
 
-import Plant from "../images/support/Plant.png"
+import plant from "../images/support/plant.png"
 import bg from "../images/support/bg1.png"
 
 const Support = ({ data, pageContext, location }) => {
@@ -30,7 +30,7 @@ const Support = ({ data, pageContext, location }) => {
             <SupportArticleSearch/>
             </FormBox>
           <Image>
-            <img src={Plant} alt="" />
+            <img src={plant} alt="" />
           </Image>
         </Content>
       </TopBanner>
