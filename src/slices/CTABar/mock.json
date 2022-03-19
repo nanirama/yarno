@@ -1,0 +1,22 @@
+{
+  "id": "8362dcc0-6019-56fd-ab0e-b2d0ab83fd7c",
+  "slice_type": "cta_bar",
+  "primary": {
+    "cta_background": "#f9b523",
+    "cta_button_text": "Get in touch",
+    "cta_font": "#ffffff",
+    "cta_content": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "Want to be a part of the Yarno team?",
+          "spans": []
+        }
+      ]
+    },
+    "cta_link": {
+      "uid": "contact-us",
+      "type": "page"
+    }
+  }
+}

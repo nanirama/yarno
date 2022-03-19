@@ -1,0 +1,55 @@
+{
+  "type": "blog_post",
+  "uid": "apps-when-you-need-one-when-you-don-t",
+  "id": "92d9186e-8270-5a2c-9f57-7d0aac73611e",
+  "data": {
+    "title": {
+      "text": "Apps: When you need one, when you don’t."
+    },
+    "read_time_in_minutes": 5,
+    "featured_image": {
+      "alt": null,
+      "fluid": {
+        "srcSet": "https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=99&h=65 99w, https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=199&h=131 199w, https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=397&h=262 397w, https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=596&h=392 596w, https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=794&h=523 794w",
+        "src": "https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=397&h=262",
+        "sizes": ""
+      }
+    },
+    "release_date": "2016-01-06",
+    "excerpt": {
+      "richText": [
+        {
+          "type": "paragraph",
+          "text": "Apps are cool, everyone knows it. But what's not so clear is when it's a great idea to build an app and when it makes more sense to go responsive.",
+          "spans": []
+        }
+      ]
+    },
+    "author": {
+      "document": {
+        "uid": "mark-eggers",
+        "data": {
+          "name": {
+            "text": "Mark Eggers"
+          },
+          "profile_picture": {
+            "url": "https://images.prismic.io/yarno/7668cc65-5fa5-4ce7-8ff0-ea4add3a8954_Mark-headshot.png?auto=compress%2Cformat&fit=max&q=50"
+          }
+        }
+      }
+    },
+    "tags": [
+      {
+        "tag": {
+          "document": {
+            "type": "tag",
+            "uid": "product",
+            "data": {
+              "name": "Product"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

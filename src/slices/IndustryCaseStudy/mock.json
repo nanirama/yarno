@@ -1,0 +1,35 @@
+{
+  "id": "8943181c-f790-5eb2-9133-28265141c04e",
+  "slice_type": "industry_case_study",
+  "primary": {
+    "case_study_content": {
+      "richText": [
+        {
+          "type": "paragraph",
+          "text": "Mortgage Choice is a mortgage broking firm that’s been helping everyday Australians for over a quarter of a century.",
+          "spans": [
+            {
+              "start": 0,
+              "end": 116,
+              "type": "strong"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Mortgage Choice found that new hires were struggling to fit into the culture and remembering to apply key knowledge they’d learnt during onboarding. They enlisted Yarno to update their onboarding process and improve the experience for new employees.",
+          "spans": []
+        }
+      ]
+    },
+    "case_study_image": {
+      "alt": null,
+      "url": "https://images.prismic.io/yarno/0743b0d2-baac-40a7-948e-09be09afc5d8_farnam_presentation.png?auto=compress%2Cformat&fit=max&q=50"
+    },
+    "case_study_logo": {
+      "alt": null,
+      "url": "https://images.prismic.io/yarno/3c60ccba-7431-45c4-8b6e-8fe548dc3236_mortgage_choice_logo.png?auto=compress%2Cformat&fit=max&q=50"
+    },
+    "case_study_vimeo_id": null
+  }
+}

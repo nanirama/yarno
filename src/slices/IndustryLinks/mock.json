@@ -1,0 +1,83 @@
+{
+  "id": "facd2831-fb69-542d-8796-efdadac3ea30",
+  "slice_type": "industry_links",
+  "primary": {
+    "links_heading": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "Learn more about Yarno",
+          "spans": []
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "link_image": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/d9c71ccd-3e9b-4431-aea6-9fc7dd25f23f_customer-service-soft-skills.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "link_link": {
+        "url": "/blog/why-customer-service-soft-skills-training--doesnt",
+        "link_type": "Document"
+      },
+      "link_supporting_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "How to improve soft skills training",
+            "spans": []
+          }
+        ]
+      },
+      "link_text": {
+        "text": "Read"
+      }
+    },
+    {
+      "link_image": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/bf9666bc-c158-49e8-a6a3-40f0f5da1d1f_ask-about-yarno.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "link_link": {
+        "url": "/blog/why-yarno-isnt-a-lms",
+        "link_type": "Document"
+      },
+      "link_supporting_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Why Yarno isn't an LMS",
+            "spans": []
+          }
+        ]
+      },
+      "link_text": {
+        "text": "Read"
+      }
+    },
+    {
+      "link_image": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/e30d9995-2e73-4778-add8-6ec8190a2a26_coach.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "link_link": {
+        "url": "/blog/how-yarno-can-help-managers-become-leaders",
+        "link_type": "Document"
+      },
+      "link_supporting_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "How Yarno helps managers become leaders",
+            "spans": []
+          }
+        ]
+      },
+      "link_text": {
+        "text": "Read"
+      }
+    }
+  ]
+}

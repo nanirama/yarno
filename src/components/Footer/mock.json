@@ -1,0 +1,384 @@
+{
+  "tiny_links": [
+      {
+          "link": {
+              "richText": [
+                  {
+                      "type": "paragraph",
+                      "text": "Terms of use",
+                      "spans": [
+                          {
+                              "start": 0,
+                              "end": 12,
+                              "type": "hyperlink",
+                              "data": {
+                                  "link_type": "Web",
+                                  "url": "https://yarno.box.com/v/platform-terms-of-use",
+                                  "target": "_blank"
+                              }
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      {
+          "link": {
+              "richText": [
+                  {
+                      "type": "paragraph",
+                      "text": "Privacy policy",
+                      "spans": [
+                          {
+                              "start": 0,
+                              "end": 14,
+                              "type": "hyperlink",
+                              "data": {
+                                  "link_type": "Web",
+                                  "url": "https://yarno.box.com/v/platform-privacy-policy",
+                                  "target": "_blank"
+                              }
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      {
+          "link": {
+              "richText": [
+                  {
+                      "type": "paragraph",
+                      "text": "Disclaimer",
+                      "spans": [
+                          {
+                              "start": 0,
+                              "end": 10,
+                              "type": "hyperlink",
+                              "data": {
+                                  "link_type": "Web",
+                                  "url": "https://yarno.box.com/v/platform-disclaimer",
+                                  "target": "_blank"
+                              }
+                          }
+                      ]
+                  }
+              ]
+          }
+      },
+      {
+          "link": {
+              "richText": [
+                  {
+                      "type": "paragraph",
+                      "text": "Status page",
+                      "spans": [
+                          {
+                              "start": 0,
+                              "end": 11,
+                              "type": "hyperlink",
+                              "data": {
+                                  "link_type": "Web",
+                                  "url": "https://yarno.statuspage.io/",
+                                  "target": "_blank"
+                              }
+                          }
+                      ]
+                  }
+              ]
+          }
+      }
+  ],
+  "acknowledgement": {
+      "richText": [
+          {
+              "type": "paragraph",
+              "text": "We acknowledge the traditional owners of the country throughout Australia and their continuing connection to land, sea and community. We pay our respect to them and their cultures and to the elders past, present and emerging.",
+              "spans": []
+          }
+      ]
+  },
+  "copyright": {
+      "richText": [
+          {
+              "type": "paragraph",
+              "text": "© 2021 Yarno. All rights reserved. Made with thought in Sydney.",
+              "spans": []
+          }
+      ]
+  },
+  "primary_nav": {
+      "document": {
+          "data": {
+              "logo": {
+                  "url": "https://images.prismic.io/yarno/fd22d56a-4fdb-4d83-9dfd-e43b8f448b12_Yarno-logo-green.png?auto=compress%2Cformat&fit=max&q=50"
+              },
+              "display_name": {
+                  "html": "<h1>Yarno</h1>",
+                  "text": "Yarno",
+                  "richText": [
+                      {
+                          "type": "heading1",
+                          "text": "Yarno",
+                          "spans": []
+                      }
+                  ]
+              },
+              "body": [
+                  {
+                      "id": "07792d99-8d2e-5ad9-9df5-8378af442f06",
+                      "primary": {
+                          "level_1_link_label": "Why Yarno?",
+                          "level_1_link": {
+                              "document": null
+                          }
+                      },
+                      "items": [
+                          {
+                              "level_2_link_label": "What is microlearning?",
+                              "level_2_link": {
+                                  "document": {
+                                      "type": "page",
+                                      "uid": "microlearning"
+                                  }
+                              }
+                          },
+                          {
+                              "level_2_link_label": "Our training solution",
+                              "level_2_link": {
+                                  "document": {
+                                      "type": "page",
+                                      "uid": "our-training-solution"
+                                  }
+                              }
+                          }
+                      ]
+                  },
+                  {
+                      "id": "f07c434b-e21c-5814-881e-dd13a190cd5f",
+                      "primary": {
+                          "level_1_link_label": "About us",
+                          "level_1_link": {
+                              "document": null
+                          }
+                      },
+                      "items": [
+                          {
+                              "level_2_link_label": "Our values",
+                              "level_2_link": {
+                                  "document": {
+                                      "type": "page",
+                                      "uid": "our-values"
+                                  }
+                              }
+                          },
+                          {
+                              "level_2_link_label": "Our team",
+                              "level_2_link": {
+                                  "document": {
+                                      "type": "page",
+                                      "uid": "our-team"
+                                  }
+                              }
+                          }
+                      ]
+                  },
+                  {
+                      "id": "28f54ca6-32b7-5f1e-890c-270db88b901d",
+                      "primary": {
+                          "level_1_link_label": "Case studies",
+                          "level_1_link": {
+                              "document": {
+                                  "type": "page",
+                                  "uid": "case-studies"
+                              }
+                          }
+                      },
+                      "items": [
+                          {
+                              "level_2_link_label": "Ron Finemore Transport",
+                              "level_2_link": {
+                                  "document": {
+                                      "type": "case_study",
+                                      "uid": "ron-finemore-transport"
+                                  }
+                              }
+                          },
+                          {
+                              "level_2_link_label": "Supercheap Auto",
+                              "level_2_link": {
+                                  "document": {
+                                      "type": "case_study",
+                                      "uid": "supercheap-auto"
+                                  }
+                              }
+                          },
+                          {
+                              "level_2_link_label": "Grant Broadcasters",
+                              "level_2_link": {
+                                  "document": {
+                                      "type": "case_study",
+                                      "uid": "grant-broadcasters"
+                                  }
+                              }
+                          }
+                      ]
+                  },
+                  {
+                      "id": "69c1bfb6-4ffd-5e92-863b-7b2c2cac7877",
+                      "primary": {
+                          "level_1_link_label": "Blog",
+                          "level_1_link": {
+                              "document": {
+                                  "type": "blog_index",
+                                  "id": "9bb6bf67-9445-5308-bf7f-7334e1ed24ec"
+                              }
+                          }
+                      },
+                      "items": [
+                          {
+                              "level_2_link_label": null,
+                              "level_2_link": {
+                                  "document": null
+                              }
+                          }
+                      ]
+                  },
+                  {
+                      "id": "90a21576-49e5-51f3-bba9-bec54d03eb3b",
+                      "primary": {
+                          "level_1_link_label": "Contact us",
+                          "level_1_link": {
+                              "document": {
+                                  "type": "page",
+                                  "uid": "contact-us"
+                              }
+                          }
+                      },
+                      "items": []
+                  }
+              ]
+          },
+          "id": "83e76cb7-27e8-53a0-86ce-3a5fc156e366"
+      }
+  },
+  "primary_footer": {
+      "document": {
+          "id": "4c5288bf-e00d-5fde-99f9-d543507558b5",
+          "data": {
+              "body": [
+                  {
+                      "id": "82aa8099-81cf-5c49-bab5-beaf80dc75ae",
+                      "slice_type": "tab",
+                      "items": [
+                          {
+                              "link_text": "Why microlearning?",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": "microlearning",
+                                  "link_type": "Document"
+                              }
+                          },
+                          {
+                              "link_text": "Our training solution",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": "our-training-solution",
+                                  "link_type": "Document"
+                              }
+                          },
+                          {
+                              "link_text": "Our values",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": "our-values",
+                                  "link_type": "Document"
+                              }
+                          },
+                          {
+                              "link_text": "Our team",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": "our-team",
+                                  "link_type": "Document"
+                              }
+                          },
+                          {
+                              "link_text": "Blog",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": null,
+                                  "link_type": "Document"
+                              }
+                          },
+                          {
+                              "link_text": "Contact us",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": "contact-us",
+                                  "link_type": "Document"
+                              }
+                          },
+                          {
+                              "link_text": "Support",
+                              "link_style": "pill",
+                              "link": {
+                                  "uid": null,
+                                  "link_type": "Web"
+                              }
+                          },
+                          {
+                              "link_text": "Login",
+                              "link_style": "pill",
+                              "link": {
+                                  "uid": null,
+                                  "link_type": "Web"
+                              }
+                          }
+                      ],
+                      "primary": {
+                          "column_heading": "Quick links"
+                      }
+                  },
+                  {
+                      "id": "3c2f6f2d-1487-5bfc-aad5-ea7c62577b0b",
+                      "slice_type": "tab",
+                      "items": [
+                          {
+                              "link_text": "Ron Finemore Transport",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": "ron-finemore-transport",
+                                  "link_type": "Document"
+                              }
+                          },
+                          {
+                              "link_text": "Supercheap Auto",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": "supercheap-auto",
+                                  "link_type": "Document"
+                              }
+                          },
+                          {
+                              "link_text": "Grant Broadcasters",
+                              "link_style": "default",
+                              "link": {
+                                  "uid": "grant-broadcasters",
+                                  "link_type": "Document"
+                              }
+                          }
+                      ],
+                      "primary": {
+                          "column_heading": "Case studies"
+                      }
+                  }
+              ],
+              "contact_email": "hello@yarno.com.au",
+              "contact_phone": "1300 79 75 46",
+              "twitter_handle": "weareyarno",
+              "linked_in": "https://www.linkedin.com/company/yarno"
+          }
+      }
+  }
+}

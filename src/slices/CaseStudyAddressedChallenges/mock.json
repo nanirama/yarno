@@ -1,0 +1,24 @@
+{
+  "id": "54eba253-f412-5e04-a49b-fcf2143cee87",
+  "primary": {
+    "addressed_image": {
+      "alt": null,
+      "url": "https://images.prismic.io/yarno/bd171e64-5876-4af8-9d4d-c3dad0ef004a_sca_quiz.png?auto=compress%2Cformat&fit=max&q=50"
+    },
+    "addressed_content": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "How Yarno addressed these challenges",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "After identifying low performing product areas, Yarno’s embed campaigns were introduced to target those key areas. For example, a \"Paint and Panel\" campaign was rolled out to improve staff members’ knowledge and confidence in advising customers about auto paint and panel supplies such as car paint, spray paint and heat resistant paint.",
+          "spans": []
+        }
+      ]
+    }
+  },
+  "slice_type": "addressed_challenges"
+}

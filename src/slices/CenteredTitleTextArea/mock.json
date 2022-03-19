@@ -1,0 +1,60 @@
+{
+  "id": "74da53cc-00ad-5eca-a2dc-474a82ca46ef",
+  "slice_type": "centered_title_text_area",
+  "primary": {
+    "text_content": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "Ongoing Yarno usage",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "RFT continues to leverage Yarno to ensure driver confidence, with ongoing safety processes and procedures training support, alongside traditional one-on-one training.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "When a driver follows a procedure incorrectly, driver trainers at RFT use the Yarno dashboard to identify:",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "Whether that driver is completing their Yarno questions.",
+          "spans": []
+        },
+        {
+          "type": "list-item",
+          "text": "The driver's strongest and weakest topic areas.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "The driver trainer can then trigger a Yarno burst or embed campaign to up-skill the driver in those areas determined to be weaker. This targeted approach means that knowledge gaps are quickly identified and filled, addressing the problem and ensuring the correct process is followed in future.",
+          "spans": []
+        },
+        {
+          "type": "image",
+          "url": "https://images.prismic.io/yarno/cd47097f-28c9-4f8b-9aff-8391d1abc005_finemore_gary.png?auto=compress,format",
+          "alt": "Driver completes his Yarno questions for the day",
+          "copyright": null,
+          "dimensions": {
+            "width": 1256,
+            "height": 680
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Yarno embeds can also be used to re-train drivers after incidents, such as a dropped trailer. They can verify that the retraining has been effective by following up with a Yarno campaign, then, if required, target any further weak points, even after retraining.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Yarno is also used to support drivers when they first join to get them up to speed as quickly as possible. After each day of induction training, drivers will receive a Yarno burst campaign. At the beginning of the next day, the driver trainer will start the day looking at the statistics in the dashboard and focus their attention on the areas that the drivers didn't understand the day prior. Over time, this means that problems and potential areas of concern are adequately addressed and corrected before the end of the drivers’ inductions. Driver trainers will then also put together a profile using a driver's experience, practical assessment skills and Yarno data. This profile will help to tailor the driver’s schedule for the first few weeks post induction.",
+          "spans": []
+        }
+      ]
+    }
+  }
+}

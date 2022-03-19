@@ -1,0 +1,17 @@
+{
+  "id": "1931aaef-41b6-5e8b-9f51-af66e3552e67",
+  "slice_type": "striped_video",
+  "primary": {
+    "video_title": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "Watch how Grant Broadcasters use Yarno",
+          "spans": []
+        }
+      ],
+      "text": "Watch how Grant Broadcasters use Yarno"
+    },
+    "vimeo_id": "464173253"
+  }
+}

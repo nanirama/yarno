@@ -1,0 +1,66 @@
+{
+  "id": "395c20cb-4531-581f-a55a-5c9868f6d193",
+  "slice_label": null,
+  "slice_type": "features",
+  "primary": {
+    "description": {
+      "text": "We're more than just a piece of software. We know time is your most  valuable resource - so Yarno offers a complete end to end service to  help get your training to your remote learners quickly. Want to manage  the software yourself like a SAAS product? That's ok. Want support with  learning content, video and graphics? We've got you covered."
+    },
+    "featurestitle": {
+      "text": "How Yarno can engage your remote teams"
+    }
+  },
+  "items": [
+    {
+      "buttonlink": {
+        "url": "https://www.yarno.com.au/why-yarno/our-training-solution#training-platform"
+      },
+      "buttontext": {
+        "text": "Read more"
+      },
+      "featureimage": {
+        "alt": null,
+        "fixed": {
+          "src": "https://images.prismic.io/yarno/3e8d02fe-e035-4c07-82ea-88cdc4f33498_Seneca_excited_circle.webp?auto=compress%2Cformat&fit=max&q=50&w=230&h=200"
+        }
+      },
+      "featuretitle": {
+        "text": "Microlearning platform"
+      }
+    },
+    {
+      "buttonlink": {
+        "url": ""
+      },
+      "buttontext": {
+        "text": "WATCH VIDEO"
+      },
+      "featureimage": {
+        "alt": null,
+        "fixed": {
+          "src": "https://images.prismic.io/yarno/ffd779c5-958e-4be5-a6e1-96892052cb88_Seneca_reading_circle.webp?auto=compress%2Cformat&fit=max&q=50&w=230&h=200"
+        }
+      },
+      "featuretitle": {
+        "text": "Content creation"
+      }
+    },
+    {
+      "buttonlink": {
+        "url": ""
+      },
+      "buttontext": {
+        "text": "Read more"
+      },
+      "featureimage": {
+        "alt": null,
+        "fixed": {
+          "src": "https://images.prismic.io/yarno/a1e2ac28-4be9-49eb-ba22-197fe453f7f7_Seneca_clock_circle.webp?auto=compress%2Cformat&fit=max&q=50&w=230&h=200"
+        }
+      },
+      "featuretitle": {
+        "text": "Campaign management"
+      }
+    }
+  ]
+}

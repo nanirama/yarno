@@ -1,0 +1,21 @@
+{
+  "id": "d7f52186-02bc-51b5-9651-4a62391d43aa",
+  "slice_type": "testimonial_hero",
+  "slice_label": null,
+  "primary": {
+    "testimonial_author_image": {
+      "alt": null,
+      "url": "https://images.prismic.io/yarno/5ecae783-8916-4be5-9a91-ad126e321098_dan_walsh.png?auto=compress%2Cformat&fit=max&q=50"
+    },
+    "testimonial_author_job_title": "National L&D Manager",
+    "testimonial_author_name": "Dan Walsh",
+    "testimonial_company_image": {
+      "alt": null,
+      "url": "https://images.prismic.io/yarno/3c60ccba-7431-45c4-8b6e-8fe548dc3236_mortgage_choice_logo.png?auto=compress%2Cformat&fit=max&q=50"
+    },
+    "testimonial_company_name": "Mortgage Choice",
+    "testimonial_cta_button_text": null,
+    "testimonial_cta_url": null,
+    "testimonial_quote": "“It's a great way to learn. Our weekly participation rates are sky high, and we found Yarno encourages a healthy level of competition”"
+  }
+}

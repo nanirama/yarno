@@ -1,0 +1,24 @@
+{
+  "id": "ce3aebeb-3dd8-51c1-87d2-d43f29cae44b",
+  "slice_type": "film_strip",
+  "items": [
+    {
+      "still": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/b3382375-809a-4b13-84b6-1b4737b55e9e_grant_screen_one.png?auto=compress%2Cformat&fit=max&q=50"
+      }
+    },
+    {
+      "still": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/3e6ff3b7-9865-4066-bd04-bae84cb89782_grant_screen_two.png?auto=compress%2Cformat&fit=max&q=50"
+      }
+    },
+    {
+      "still": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/7e5f3deb-a88c-44cd-9a71-fac9a354912b_grant_screen_three.png?auto=compress%2Cformat&fit=max&q=50"
+      }
+    }
+  ]
+}

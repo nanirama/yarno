@@ -1,0 +1,69 @@
+{
+  "slice_label": null,
+  "slice_type": "advisors",
+  "items": [
+    {
+      "advisor": {
+        "id": "YOpXdBAAACEAmq9i",
+        "document": {
+          "data": {
+            "name": {
+              "text": "Gillian Davie"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/in/gillian-davie-gaicd-7b865312/"
+            },
+            "job_title": {
+              "text": "Head of People & Culture at AMP Australia"
+            },
+            "profile_picture": {
+              "url": "https://images.prismic.io/yarno/ceb1acf8-5ed1-4938-99b3-c2a64abb4a30_gillian-davie.png?auto=compress%2Cformat&rect=0%2C2%2C260%2C260&w=132&h=132&fit=max&q=50"
+            }
+          }
+        }
+      }
+    },
+    {
+      "advisor": {
+        "id": "YOpXpBAAACIAmrA_",
+        "document": {
+          "data": {
+            "name": {
+              "text": "Jeff O'Donnell"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/in/jeff-o-donnell-a3676b/"
+            },
+            "job_title": {
+              "text": "Director at Hahn Healthcare"
+            },
+            "profile_picture": {
+              "url": "https://images.prismic.io/yarno/6890d020-74a9-408b-953b-b0ec1e323000_jeff-odonnell.png?auto=compress%2Cformat&rect=0%2C2%2C260%2C260&w=132&h=132&fit=max&q=50"
+            }
+          }
+        }
+      }
+    },
+    {
+      "advisor": {
+        "id": "YOpXzhAAACIAmrD4",
+        "document": {
+          "data": {
+            "name": {
+              "text": "Melinda Snowden"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/in/melinda-snowden-a99a3515/"
+            },
+            "job_title": {
+              "text": "Non Executive Director at WAM Leaders Limited"
+            },
+            "profile_picture": {
+              "url": "https://images.prismic.io/yarno/1c23612d-4d51-48bf-a94f-9ee73cb19239_melinda-snowden.png?auto=compress%2Cformat&rect=0%2C2%2C260%2C260&w=132&h=132&fit=max&q=50"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "003efba8-ece3-5e2d-bdb1-142c8afb945e",
+  "primary": {
+      "squeeze_disclaimer_link": {
+          "url": ""
+      },
+      "squeeze_privacy_link": {
+          "url": "https://yarno.box.com/v/platform-privacy-policy"
+      }
+  },
+  "slice_label": null,
+  "slice_type": "squeeze_legal_links"
+}

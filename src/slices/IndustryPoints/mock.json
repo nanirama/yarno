@@ -1,0 +1,113 @@
+{
+  "id": "c513f494-35fd-56bb-9e48-90ccb2346503",
+  "slice_type": "industry_points",
+  "primary": {
+    "points_header": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "Training in only 3 minutes a day",
+          "spans": []
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "point_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Help your team put training material into practice and change their approach workplace problems.",
+            "spans": []
+          }
+        ]
+      },
+      "point_image": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/e8d20ed7-9245-40a5-b221-74b92efcbc32_cogs.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "point_title": {
+        "richText": [
+          {
+            "type": "heading6",
+            "text": "Change behaviours",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "point_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Increase interest in training and keep employees engaged by getting the conversation started.",
+            "spans": []
+          }
+        ]
+      },
+      "point_image": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/5bb058b1-10ba-49ff-8a8b-701fd2c5c5a3_conversation.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "point_title": {
+        "richText": [
+          {
+            "type": "heading6",
+            "text": "Start the conversation",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "point_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Improve and maintain performance through ongoing training and create lasting learning.",
+            "spans": []
+          }
+        ]
+      },
+      "point_image": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/bcaf5419-7210-4e0e-9ffe-790f3a94fd89_book.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "point_title": {
+        "richText": [
+          {
+            "type": "heading6",
+            "text": "Reinforce knowledge",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "point_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Know you’re getting the most out of your training investment with Yarno, for your business and team.",
+            "spans": []
+          }
+        ]
+      },
+      "point_image": {
+        "alt": null,
+        "url": "https://images.prismic.io/yarno/94aa44a5-d482-45ee-88cc-51bca6e140a6_tape_measure.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "point_title": {
+        "richText": [
+          {
+            "type": "heading6",
+            "text": "Measure return on investment",
+            "spans": []
+          }
+        ]
+      }
+    }
+  ]
+}

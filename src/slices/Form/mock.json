@@ -1,0 +1,27 @@
+{
+  "id": "91b0448f-3cc8-5e42-8a5c-0e4c9077ee9d",
+  "slice_label": null,
+  "slice_type": "form",
+  "primary": {
+    "form_reference": {
+      "document": {
+        "id": "3f6ec3ee-bd61-5111-af41-09ae4902a7b5",
+        "data": {
+          "campaign_monitor_list_id": "85262f3a3da6f623a0482b71190430fb",
+          "include_yarn_subscribe_checkbox": true,
+          "submit_button_label": "Download guide",
+          "success_message": {
+            "richText": [
+              {
+                "type": "paragraph",
+                "text": "You should receive an email with your guide shortly.",
+                "spans": []
+              }
+            ]
+          }
+        },
+        "type": "campaign_monitor_form"
+      }
+    }
+  }
+}

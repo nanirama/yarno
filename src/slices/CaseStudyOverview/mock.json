@@ -1,0 +1,67 @@
+{
+  "id": "ce3aebeb-3dd8-51c1-87d2-d43f29cae44b",
+  "slice_type": "case_study_overview",
+  "primary": {
+    "who_are_they": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "Who they are",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Grant Broadcasters began in 1942 as the local 2DU radio station in Dubbo, NSW. Now, in 2020, they operate 52 commercial broadcast stations across every state and territory in Australia, including 5 in joint-venture with Capital Radio Network. With 500+ staff, if you've got ears and an aerial, you would have heard their voices. From Dubbo, to Devonport, to Darwin, they cover a lot of ground, but they're local to the bone.",
+          "spans": []
+        }
+      ]
+    }
+  },
+  "items": [
+    {
+      "feature_text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Embed campaigns",
+            "spans": []
+          }
+        ]
+      },
+      "feature_image": {
+        "url": "https://yarno.cdn.prismic.io/yarno/cddf15f6-13dc-4f5a-8a40-13a14a0ffa85_embed_icon.svg?auto=compress%2Cformat&fit=max&q=50",
+        "alt": null
+      }
+    },
+    {
+      "feature_text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Bursts",
+            "spans": []
+          }
+        ]
+      },
+      "feature_image": {
+        "url": "https://yarno.cdn.prismic.io/yarno/c06e790e-ca3e-423f-b93b-8572aa97467d_bursts_icon.svg?auto=compress%2Cformat&fit=max&q=50",
+        "alt": null
+      }
+    },
+    {
+      "feature_text": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Learning library",
+            "spans": []
+          }
+        ]
+      },
+      "feature_image": {
+        "url": "https://yarno.cdn.prismic.io/yarno/b5ace1f3-7f40-4278-b4f4-71c27ad29510_learning_library_icon.svg?auto=compress%2Cformat&fit=max&q=50",
+        "alt": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slice_label": null,
+  "slice_type": "video_hero",
+  "primary": {
+    "video_hero_image": {
+      "url": "https://images.prismic.io/yarno/5c850816-3a10-4484-add1-22a80240432d_Hand_holding_phone.png?auto=compress%2Cformat&fit=max&q=50"
+    },
+    "video_hero_title": {
+      "text": "Engage and up skill your remote workforce"
+    },
+    "description": {
+      "text": "Yarno's microlearning software platform is built for flexible learning. We embed business-critical information in just 3 minutes a day – for a more productive and more engaged remote workforce"
+    },
+    "call_to_action_text": "Watch a video about Yarno"
+  }
+}

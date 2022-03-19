@@ -1,0 +1,65 @@
+{
+    "slice_type": "key_results",
+    "items": [
+        {
+            "result": [
+                {
+                    "type": "paragraph",
+                    "text": "There has been a two thirds reduction in dropped trailers.",
+                    "spans": [
+                        {
+                            "end": 37,
+                            "start": 17,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "type": "paragraph",
+                    "text": "Drivers inducted with Yarno all perform higher in their driver assessments 1 year later, largely attributed to greater retention of information.",
+                    "spans": [
+                        {
+                            "end": 89,
+                            "start": 32,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "type": "paragraph",
+                    "text": "The business achieved self-insurance status with Comcare and now uses the results of Yarno as evidence for the regulator during audits and in the case of any type of safety breach.",
+                    "spans": [
+                        {
+                            "end": 56,
+                            "start": 22,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "type": "paragraph",
+                    "text": "There has not been a single accident in the company involving a driver who has been inducted using Yarno.",
+                    "spans": [
+                        {
+                            "end": 36,
+                            "start": 0,
+                            "type": "strong"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b1dac680-4edb-580b-8f47-235826c5edd3",
+  "primary": {
+      "contact_email_label": "mark@yarno.com.au",
+      "contact_email_link": "mailto:mark@yarno.com.au",
+      "contact_phone_label": "0401872305",
+      "contact_phone_link": "mailto:mark@yarno.com.au",
+      "squeeze_contact_details_avatar": {
+          "alt": "Mark eggers",
+          "url": "https://images.prismic.io/yarno/441339eb-7e11-47ad-a8c0-5b037a92b5c6_mark-eggers-sales-cta.webp?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "squeeze_contact_details_text": {
+          "richText": [
+              {
+                  "type": "heading3",
+                  "text": "Contact Mark today to find out how we can help",
+                  "spans": []
+              }
+          ]
+      }
+  },
+  "slice_label": null,
+  "slice_type": "squeeze_contact_details"
+}

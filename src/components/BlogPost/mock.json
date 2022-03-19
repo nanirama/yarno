@@ -1,0 +1,302 @@
+{
+  "title": {
+    "richText": [
+      {
+        "type": "heading1",
+        "text": "Apps: When you need one, when you don’t.",
+        "spans": []
+      }
+    ]
+  },
+  "tags": [
+    {
+      "tag": {
+        "document": {
+          "id": "8a360caa-80ef-5919-ace6-1c5ec6c8e54b",
+          "data": {
+            "name": "Product"
+          }
+        }
+      }
+    }
+  ],
+  "release_date": "2016-01-06",
+  "read_time_in_minutes": 5,
+  "featured_image": {
+    "alt": null,
+    "fluid": {
+      "srcSet": "https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=100&h=66 100w, https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=200&h=132 200w, https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=400&h=264 400w, https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=600&h=395 600w, https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=800&h=527 800w",
+      "src": "https://images.prismic.io/yarno/22c38d71-671b-4f1a-a2b7-dc49daa73cd9_Mary-pointing-yarno%402x.png?auto=compress%2Cformat&fit=max&q=50&w=400&h=100",
+      "sizes": ""
+    }
+  },
+  "body": [
+    {
+      "id": "8e06a774-3f5e-5242-92b8-768fc12d4510",
+      "slice_type": "text",
+      "primary": {
+        "text": {
+          "richText": [
+            {
+              "type": "paragraph",
+              "text": "If you're not on mobile these days, you're a dinosaur. And we all know that taking advantage of an increasingly connected audience can pay dividends - BUT only if the strategy is right. Years of working with my clients has taught me that there is a lot of confusion in the marketplace when it comes to ‘apps’; what they are, what they do, and whether an app is the best solution to solve a client's needs.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "When presented with the question of 'do I need an app', I first ask the following: ‘what is the desired outcome for this product’? What do they want to achieve, who are they trying to reach, and how will the end user interact with their proposed product? Do they expect their users to go to the app store, download and install it? From here we should be able to ascertain whether they are best suited to either (a) a mobile application or (b) a mobile responsive website.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "A mobile application, by definition, is a piece of software specifically designed to run on smartphones (iPhone, Android, and other), tablets (iPad etc) and all mobile devices in between. The best applications usually perform a specific task but can be made for pure entertainment (games) or can be educational or informative. For the end user, the difference between a mobile app and a mobile website is that the app will appear as an icon on their phone or tablet, whereas a mobile website will be accessed through a web browser such as Mobile Safari or Android’s Browser (which are both mobile apps themselves). In terms of technology, mobile applications can be broken down into three main categories:",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "1. Native apps",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "A native app is specifically designed to run on a device’s operating system and machine firmware, and typically requires a different codebase (meaning extra development costs) for different platforms such as iOS, Android and Windows.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "2. HTML5 apps",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "HTML5 apps are written using web technologies (HTML, CSS and Javascript). When using a mobile development platform such as Apache Cordova (formerly PhoneGap) or Appcelerator these apps can be distributed through Apple’s App Store, Google Play and other Android marketplaces. In many cases, if an HTML5 app is well-executed, average joe end user will not know whether they're using an HTML5 app or a native app.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "As some background, you should know that HTML is the basic markup language that is used for the world wide web. The page you’re looking at right now is written in HTML and could (if you really wanted it to) be packaged as an HTML5 app. HTML5 is the most recent revision of HTML and has strong multimedia features.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "3. Mobile Responsive websites",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "In practice, a responsive version of your website means that if you visit a website from your desktop computer you will see the full version, but if you visit the same URL from another device, the website will automatically switch to accommodate for resolution, image size and scripting abilities. This is beneficial given the huge amount of devices out there in the marketplace – from Samsung, to Apple to HTC and so forth. In other words, in a mobile responsive website, the designer and developer would have thought about how the website will automatically “_respond”_to the user’s device size.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "",
+              "spans": []
+            },
+            {
+              "type": "heading2",
+              "text": "PROS AND CONS",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "There are a number of pros and cons to building either of the 3 options mentioned above:",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "Native",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Pros: These apps run natively on the mobile device. In practice this means that they can offer a faster, smoother user experience, though for many apps the speed difference will be negligible. If you are trying to produce a complex 3D game, a photo-editing application, a music editor, a synthesiser or some other technology-intensive application, then a native app is likely to be the best solution.",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 6,
+                  "type": "strong"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The biggest benefit is that apps can be made available through ‘application distribution platforms’ such as the Apple App Store, Google Play, Windows Phone Store and BlackBerry World. This really trumps all other technical considerations. The app store is much better for app discovery (for instance they are featured by category and ranked by popularity) and a centralised billing and installation system.",
+              "spans": [
+                {
+                  "start": 112,
+                  "end": 127,
+                  "type": "hyperlink",
+                  "data": {
+                    "link_type": "Web",
+                    "url": "https://www.apple.com/au/ios/app-store/"
+                  }
+                },
+                {
+                  "start": 129,
+                  "end": 140,
+                  "type": "hyperlink",
+                  "data": {
+                    "link_type": "Web",
+                    "url": "https://play.google.com/store?hl=en"
+                  }
+                },
+                {
+                  "start": 142,
+                  "end": 161,
+                  "type": "hyperlink",
+                  "data": {
+                    "link_type": "Web",
+                    "url": "https://www.microsoft.com/en-au/store/apps/windows-phone"
+                  }
+                },
+                {
+                  "start": 166,
+                  "end": 182,
+                  "type": "hyperlink",
+                  "data": {
+                    "link_type": "Web",
+                    "url": "https://appworld.blackberry.com/"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Cons: Usually more expensive and take longer to build. Each platform uses a different programming language for native apps, and there are generally fewer developers who are competent with these languages than there are for HTML5.",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 5,
+                  "type": "strong"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "If your content is not something that the end-user is likely to want to access frequently, they are unlikely to choose to permanently install an app on their device.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "HTML5 apps",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Pros: Generally quicker and cheaper to develop than native apps because HTML5 cross-platform mobile application frameworks such as Apache Cordova (formerly PhoneGap) and Appcelerator allow you to develop a single web app and easily export multiple versions for use on various platforms and for submission to different app stores. HTML5 is particularly useful for media apps and “access” apps (those that let you access an existing accounts via a mobile device, such as banks). In most cases where the client wants the end user to be able to display and submit information, an HTML5 app will fit their needs.",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 5,
+                  "type": "strong"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Cons: These apps are typically slower than native apps. Historically, HTML5 apps couldn't utilise all of the internal features of the smartphone, but this has become less of an issue with cross-platform mobile applications frameworks now able to access everything from the camera and compass to the accelerometer through HTML5 and Javascript.",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 5,
+                  "type": "strong"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "",
+              "spans": []
+            },
+            {
+              "type": "heading3",
+              "text": "Mobile responsive websites",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Pros: Quicker to develop and generally cheaper than both HTML5 or native mobile applications. They stand a better chance of being found by a user searching on Google, because they share the same code base as your current website. In cases where your app is not something the user wants to access regularly, then they are likely to look for you through Google rather than their device’s app store.",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 5,
+                  "type": "strong"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Cons: They are often slower than a native app and users can only view your mobile website when they are connected to the internet (although with good 4G coverage, issues with speed should be a thing of the past).",
+              "spans": [
+                {
+                  "start": 0,
+                  "end": 5,
+                  "type": "strong"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "",
+              "spans": []
+            },
+            {
+              "type": "heading2",
+              "text": "Conclusion",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Looking at all of the above, the question as to whether a prospective client requires an app or a mobile optimised website becomes ‘what do they want to achieve’? Do they want to simply display information on their website in a user friendly manner with minimal interactivity or do they require integration with the features of the smartphone? Do they think that the end user will be bothered to go into the app store, search for their app and download and install it? Rather, if the user is likely to punch their website address directly into their mobile browser, or search for the client’s information via Google, then a strong case exists for them to be guided down the mobile optimised route. Tailoring this site to clearly display the information most sought after will be the optimal solution. Inevitably the user benefits from a smooth transition of information that improves their browsing experience.",
+              "spans": []
+            },
+            {
+              "type": "paragraph",
+              "text": "Conversely, if they require seamless interaction with data stored on their mobile device, want to connect with a range of other applications and do not need to rely heavily on cellular data or wifi to run their program, then a dedicated mobile application is the answer. Speed, interaction with the operating system of the phone and complexity of the application will push them down the native route (if they have the funds and time to go with it). Alternatively, if they want a cost effective solution that is easily applied across the various mobile platforms, HTML5 is likely to be their best option.",
+              "spans": []
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "author": {
+    "document": {
+      "id": "17133612-d156-5187-8b30-9df17bfda636",
+      "data": {
+        "name": {
+          "text": "Mark Eggers"
+        },
+        "profile_picture": {
+          "alt": "Mark Eggers",
+          "copyright": null,
+          "url": "https://images.prismic.io/yarno/7668cc65-5fa5-4ce7-8ff0-ea4add3a8954_Mark-headshot.png?auto=compress%2Cformat&fit=max&q=50"
+        },
+        "bio": {
+          "richText": [
+            {
+              "type": "paragraph",
+              "text": "Mark heads up the Sales team at Yarno. He loves to chat, which is fortunate because he’s very good at it. He's our digital Swiss Army Knife, always armed with a solution to any problem.",
+              "spans": []
+            }
+          ]
+        }
+      }
+    }
+  }
+}

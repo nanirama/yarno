@@ -1,0 +1,42 @@
+{
+  "id": "249856fb-76be-573f-b69f-cc17339a416b",
+  "slice_type": "related_posts",
+  "items": [
+    {
+      "related_result": {
+        "document": {
+          "id": "7dc8ce33-a96f-5906-94fe-da90ead7b37c",
+          "data": {
+            "title": {
+              "richText": [
+                {
+                  "type": "heading1",
+                  "text": "Grant Broadcasters",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "related_result": {
+        "document": {
+          "id": "880b870f-3282-5fc9-9153-8b9ca85dce9a",
+          "data": {
+            "title": {
+              "richText": [
+                {
+                  "type": "heading1",
+                  "text": "Ron Finemore Transport",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}

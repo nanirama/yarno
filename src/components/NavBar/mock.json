@@ -1,0 +1,134 @@
+[
+  {
+    "id": "07792d99-8d2e-5ad9-9df5-8378af442f06",
+    "primary": {
+      "level_1_link_label": "Why Yarno?",
+      "level_1_link": {
+        "document": null
+      }
+    },
+    "items": [
+      {
+        "level_2_link_label": "What is microlearning?",
+        "level_2_link": {
+          "document": {
+            "type": "page",
+            "uid": "microlearning"
+          }
+        }
+      },
+      {
+        "level_2_link_label": "Our training solution",
+        "level_2_link": {
+          "document": {
+            "type": "page",
+            "uid": "our-training-solution"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "f07c434b-e21c-5814-881e-dd13a190cd5f",
+    "primary": {
+      "level_1_link_label": "About us",
+      "level_1_link": {
+        "document": null
+      }
+    },
+    "items": [
+      {
+        "level_2_link_label": "Our values",
+        "level_2_link": {
+          "document": {
+            "type": "page",
+            "uid": "our-values"
+          }
+        }
+      },
+      {
+        "level_2_link_label": "Our team",
+        "level_2_link": {
+          "document": {
+            "type": "page",
+            "uid": "our-team"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "28f54ca6-32b7-5f1e-890c-270db88b901d",
+    "primary": {
+      "level_1_link_label": "Case studies",
+      "level_1_link": {
+        "document": {
+          "type": "page",
+          "uid": "case-studies"
+        }
+      }
+    },
+    "items": [
+      {
+        "level_2_link_label": "Ron Finemore Transport",
+        "level_2_link": {
+          "document": {
+            "type": "case_study",
+            "uid": "ron-finemore-transport"
+          }
+        }
+      },
+      {
+        "level_2_link_label": "Supercheap Auto",
+        "level_2_link": {
+          "document": {
+            "type": "case_study",
+            "uid": "supercheap-auto"
+          }
+        }
+      },
+      {
+        "level_2_link_label": "Grant Broadcasters",
+        "level_2_link": {
+          "document": {
+            "type": "case_study",
+            "uid": "grant-broadcasters"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "69c1bfb6-4ffd-5e92-863b-7b2c2cac7877",
+    "primary": {
+      "level_1_link_label": "Blog",
+      "level_1_link": {
+        "document": {
+          "type": "blog_index",
+          "id": "9bb6bf67-9445-5308-bf7f-7334e1ed24ec"
+        }
+      }
+    },
+    "items": [
+      {
+        "level_2_link_label": null,
+        "level_2_link": {
+          "document": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "90a21576-49e5-51f3-bba9-bec54d03eb3b",
+    "primary": {
+      "level_1_link_label": "Contact us",
+      "level_1_link": {
+        "document": {
+          "type": "page",
+          "uid": "contact-us"
+        }
+      }
+    },
+    "items": []
+  }
+]

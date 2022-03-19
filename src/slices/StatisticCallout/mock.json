@@ -1,0 +1,29 @@
+{
+  "id": "9c7f5d76-6d08-5ad2-bb1e-08cfb193abc3",
+  "slice_type": "statistic_callout",
+  "primary": {
+    "statistic_color": null,
+    "statistic_quote": {
+      "richText": [
+        {
+          "type": "paragraph",
+          "text": "“As a long time traditional trainer and educator I was initially dubious about the educational benefits of ‘learning by quiz’. After seeing Yarno in action I am now sold on mobile learning and amazed at how powerful a learning tool and a few carefully constructed questions can be!”",
+          "spans": []
+        }
+      ]
+    },
+    "statistic_quotee": "Senior training project officer",
+    "statistic_quotee_role": "Mental Health Victoria",
+    "statistic_stat": "64",
+    "statistic_symbol": "%",
+    "statistic_text": {
+      "richText": [
+        {
+          "type": "paragraph",
+          "text": "of employees feel more confident in their role.",
+          "spans": []
+        }
+      ]
+    }
+  }
+}

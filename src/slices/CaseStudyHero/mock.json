@@ -1,0 +1,32 @@
+{
+  "id": "27dbf528-292a-53cb-ada2-0edff22be750",
+  "slice_type": "case_study_hero",
+  "primary": {
+    "company_logo": {
+      "url": "https://images.prismic.io/yarno/9ee32250-d12f-4995-aa01-a73af19b0647_rft.png?auto=compress%2Cformat&fit=max&q=50",
+      "alt": null,
+      "fluid": {
+        "src": "https://images.prismic.io/yarno/9ee32250-d12f-4995-aa01-a73af19b0647_rft.png?auto=compress%2Cformat&fit=max&q=50&w=280&h=80",
+        "srcSet": "https://images.prismic.io/yarno/9ee32250-d12f-4995-aa01-a73af19b0647_rft.png?auto=compress%2Cformat&fit=max&q=50&w=70&h=27 70w, https://images.prismic.io/yarno/9ee32250-d12f-4995-aa01-a73af19b0647_rft.png?auto=compress%2Cformat&fit=max&q=50&w=140&h=54 140w, https://images.prismic.io/yarno/9ee32250-d12f-4995-aa01-a73af19b0647_rft.png?auto=compress%2Cformat&fit=max&q=50&w=280&h=109 280w, https://images.prismic.io/yarno/9ee32250-d12f-4995-aa01-a73af19b0647_rft.png?auto=compress%2Cformat&fit=max&q=50&w=420&h=163 420w, https://images.prismic.io/yarno/9ee32250-d12f-4995-aa01-a73af19b0647_rft.png?auto=compress%2Cformat&fit=max&q=50&w=560&h=218 560w"
+      }
+    },
+    "hero_title": {
+      "richText": [
+        {
+          "type": "heading1",
+          "text": "Ron Finemore Transport addresses knowledge gaps because safety is their No.1 priority",
+          "spans": [
+            {
+              "start": 0,
+              "end": 22,
+              "type": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    "image": {
+      "url": "https://images.prismic.io/yarno/7083b370-187a-4b3e-b7b5-630dcbf6ee62_gary_driving.png?auto=compress%2Cformat&fit=max&q=50"
+    }
+  }
+}

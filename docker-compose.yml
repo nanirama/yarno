@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+  web:
+    build:
+      context: .
+      args:
+        NPM_TOKEN: ${NPM_TOKEN}
+      dockerfile: ./Dockerfile
+    image: marketing
+    command: yarn run dev
+    volumes:
+      - node_modules:/app/node_modules
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./:/app
+
+  storybook:
+    image: marketing
+    command: yarn run storybook
+    ports:
+      - "6006:6006"
+    volumes:
+      - ./:/app
+
+volumes:
+  node_modules:

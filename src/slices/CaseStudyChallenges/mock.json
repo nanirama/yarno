@@ -1,0 +1,15 @@
+{
+  "id": "ca47d7d4-c196-5410-978a-093f301d2bbf",
+  "slice_type": "challenges",
+  "primary": {
+    "challenge_context": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "The challenges",
+          "spans": []
+        }
+      ]
+    }
+  }
+}

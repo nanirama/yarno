@@ -1,0 +1,42 @@
+{
+  "id": "91b0448f-3cc8-5e42-8a5c-0e4c9077ee9d",
+  "slice_label": null,
+  "slice_type": "text_block",
+  "primary": {
+    "text_block_content": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "Everything you need in the palm of your hand",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "We've got eagle eyes and we've used them to pore over the Competition and Consumer Act 2010 (Cth). We extracted all the key information and transformed all that tough legal language into simple, plain English. Our course is delivered in the form of a daily quiz. It takes just a few minutes and can be done anytime, anywhere, so everyone can understand and comply. The law doesn't have to be so tricky, after all.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Yarno is a microlearning app that uses learning science, spaced repetition and gamification to improve employee performance. Learn more about us here.",
+          "spans": [
+            {
+              "start": 145,
+              "end": 150,
+              "type": "hyperlink",
+              "data": {
+                "link_type": "Web",
+                "url": "https://www.yarno.com.au/why-yarno/our-training-solution"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "text_block_image": {
+      "alt": "Yarno quiz on mobile phone",
+      "url": "https://images.prismic.io/yarno/4888e827-a6fa-4849-a8f0-30221515fe6d_phone-quiz.png?auto=compress%2Cformat&fit=max&q=50"
+    },
+    "text_block_align": null,
+    "text_block_vimeo_video_id": null
+  }
+}

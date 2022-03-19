@@ -1,0 +1,167 @@
+[
+  {
+    "type": "blog_post",
+    "uid": "how-to-use-interleaving-win-results",
+    "id": "b0833ff6-c86b-5b0d-934f-7c601d1d2338",
+    "data": {
+      "title": {
+        "text": "How to use interleaving to win long-term results"
+      },
+      "read_time_in_minutes": 4,
+      "featured_image": {
+        "alt": null,
+        "fluid": {
+          "srcSet": "https://images.prismic.io/yarno/4dec90a7-9d23-4a08-b560-ffe78e88ad05_brain%402x.png?auto=compress%2Cformat&fit=max&q=50&w=99&h=65 99w, https://images.prismic.io/yarno/4dec90a7-9d23-4a08-b560-ffe78e88ad05_brain%402x.png?auto=compress%2Cformat&fit=max&q=50&w=199&h=131 199w, https://images.prismic.io/yarno/4dec90a7-9d23-4a08-b560-ffe78e88ad05_brain%402x.png?auto=compress%2Cformat&fit=max&q=50&w=397&h=262 397w, https://images.prismic.io/yarno/4dec90a7-9d23-4a08-b560-ffe78e88ad05_brain%402x.png?auto=compress%2Cformat&fit=max&q=50&w=596&h=392 596w, https://images.prismic.io/yarno/4dec90a7-9d23-4a08-b560-ffe78e88ad05_brain%402x.png?auto=compress%2Cformat&fit=max&q=50&w=794&h=523 794w",
+          "src": "https://images.prismic.io/yarno/4dec90a7-9d23-4a08-b560-ffe78e88ad05_brain%402x.png?auto=compress%2Cformat&fit=max&q=50&w=397&h=262",
+          "sizes": ""
+        }
+      },
+      "release_date": "2021-08-05",
+      "excerpt": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "As one of the heavyweights of the big three learning science methods, interleaving has the power to leave cramming in the dust.",
+            "spans": []
+          }
+        ]
+      },
+      "author": {
+        "document": {
+          "uid": "erin-mcgee",
+          "data": {
+            "name": {
+              "text": "Erin McGee"
+            },
+            "profile_picture": {
+              "url": null
+            }
+          }
+        }
+      },
+      "tags": [
+        {
+          "tag": {
+            "document": {
+              "type": "tag",
+              "uid": "learning",
+              "data": {
+                "name": "Learning"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "blog_post",
+    "uid": "acknowledge-align-and-assure-your-way-to-personal",
+    "id": "92a38fe9-2ee2-5748-b4d5-f931f4329b90",
+    "data": {
+      "title": {
+        "text": "Acknowledge, align and assure your way to personal customer service"
+      },
+      "read_time_in_minutes": 4,
+      "featured_image": {
+        "alt": null,
+        "fluid": {
+          "srcSet": "https://images.prismic.io/yarno/93c1cd44-1ecf-4344-8439-5ed155999b94_call-centres-article-transparent-header-copy.png?auto=compress%2Cformat&fit=max&q=50&w=99&h=65 99w, https://images.prismic.io/yarno/93c1cd44-1ecf-4344-8439-5ed155999b94_call-centres-article-transparent-header-copy.png?auto=compress%2Cformat&fit=max&q=50&w=199&h=131 199w, https://images.prismic.io/yarno/93c1cd44-1ecf-4344-8439-5ed155999b94_call-centres-article-transparent-header-copy.png?auto=compress%2Cformat&fit=max&q=50&w=397&h=262 397w, https://images.prismic.io/yarno/93c1cd44-1ecf-4344-8439-5ed155999b94_call-centres-article-transparent-header-copy.png?auto=compress%2Cformat&fit=max&q=50&w=596&h=392 596w, https://images.prismic.io/yarno/93c1cd44-1ecf-4344-8439-5ed155999b94_call-centres-article-transparent-header-copy.png?auto=compress%2Cformat&fit=max&q=50&w=794&h=523 794w",
+          "src": "https://images.prismic.io/yarno/93c1cd44-1ecf-4344-8439-5ed155999b94_call-centres-article-transparent-header-copy.png?auto=compress%2Cformat&fit=max&q=50&w=397&h=262",
+          "sizes": ""
+        }
+      },
+      "release_date": "2021-08-05",
+      "excerpt": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "You need more than just the technical capabilities when it comes to customer service. What is that \"more\"? A personal connection.",
+            "spans": []
+          }
+        ]
+      },
+      "author": {
+        "document": {
+          "uid": "courtney-dutton",
+          "data": {
+            "name": {
+              "text": "Courtney Dutton"
+            },
+            "profile_picture": {
+              "url": "https://images.prismic.io/yarno/d71dab16-c1f1-4f14-a58a-f6d053436bf5_Courtney-headshot.png?auto=compress%2Cformat&fit=max&q=50"
+            }
+          }
+        }
+      },
+      "tags": [
+        {
+          "tag": {
+            "document": {
+              "type": "tag",
+              "uid": "learning",
+              "data": {
+                "name": "Learning"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "blog_post",
+    "uid": "tapping-into-great-content-practicing-what-you-preach",
+    "id": "855df50a-bcd8-5b51-9b9b-397ef5f56e3b",
+    "data": {
+      "title": {
+        "text": "Tapping Into Great Content; Practicing What You Preach"
+      },
+      "read_time_in_minutes": 3,
+      "featured_image": {
+        "alt": "Jack",
+        "fluid": {
+          "srcSet": "https://images.prismic.io/yarno/8d8a532e-1080-445b-baa4-9997de3374a0_jack-s-blog-post.png?auto=compress%2Cformat&fit=max&q=50&w=99&h=65 99w, https://images.prismic.io/yarno/8d8a532e-1080-445b-baa4-9997de3374a0_jack-s-blog-post.png?auto=compress%2Cformat&fit=max&q=50&w=199&h=131 199w, https://images.prismic.io/yarno/8d8a532e-1080-445b-baa4-9997de3374a0_jack-s-blog-post.png?auto=compress%2Cformat&fit=max&q=50&w=397&h=262 397w, https://images.prismic.io/yarno/8d8a532e-1080-445b-baa4-9997de3374a0_jack-s-blog-post.png?auto=compress%2Cformat&fit=max&q=50&w=596&h=392 596w, https://images.prismic.io/yarno/8d8a532e-1080-445b-baa4-9997de3374a0_jack-s-blog-post.png?auto=compress%2Cformat&fit=max&q=50&w=794&h=523 794w",
+          "src": "https://images.prismic.io/yarno/8d8a532e-1080-445b-baa4-9997de3374a0_jack-s-blog-post.png?auto=compress%2Cformat&fit=max&q=50&w=397&h=262",
+          "sizes": ""
+        }
+      },
+      "release_date": "2021-07-28",
+      "excerpt": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "I haven’t been at Yarno for long, but one word that has stuck out to me is ‘authenticity’. I’d consumed so much content on the website, so I was really keen to learn their philosophy on content creation. Here’s what I’ve learnt so far.",
+            "spans": []
+          }
+        ]
+      },
+      "author": {
+        "document": {
+          "uid": "jack-turner",
+          "data": {
+            "name": {
+              "text": "Jack Turner"
+            },
+            "profile_picture": {
+              "url": "https://images.prismic.io/yarno/04ebb433-af8f-4bfe-ba08-4f48e12871d6_Jack+Turner.png?auto=compress%2Cformat&fit=max&q=50"
+            }
+          }
+        }
+      },
+      "tags": [
+        {
+          "tag": {
+            "document": {
+              "type": "tag",
+              "uid": "culture",
+              "data": {
+                "name": "Culture"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "slice_label": null,
+  "slice_type": "card_link_list",
+  "items": [
+    {
+      "card_link_category": {
+        "richText": [
+          {
+            "type": "heading4",
+            "text": "Transport & logistics",
+            "spans": []
+          }
+        ],
+        "text": "Transport & logistics"
+      },
+      "card_link_image": {
+        "url": "https://images.prismic.io/yarno/9ee32250-d12f-4995-aa01-a73af19b0647_rft.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "card_link_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Ron Finemore Transport has the safest, youngest and most modern fleet in Australia. Operating across more than three states, they maintain a fleet of 250+ trucks and 600+ staff. They use Yarno because safety is their No. 1 priority.",
+            "spans": []
+          }
+        ]
+      },
+      "card_link_label": "Read their story",
+      "card_link_link": {
+        "uid": "ron-finemore-transport",
+        "type": "case_study"
+      }
+    },
+    {
+      "card_link_category": {
+        "richText": [
+          {
+            "type": "heading4",
+            "text": "Retail",
+            "spans": []
+          }
+        ],
+        "text": "Retail"
+      },
+      "card_link_image": {
+        "url": "https://images.prismic.io/yarno/f7fc29d9-77e5-4921-9c24-6e9201f9e2dd_sca.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "card_link_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Supercheap Auto is Australia and New Zealand’s largest automotive business with 300 stores, 3,800 team members, and more than 10,000 different items available in store. With Yarno, they've managed to increase their like-for-like sales and NPS scores.",
+            "spans": []
+          }
+        ]
+      },
+      "card_link_label": "Read their story",
+      "card_link_link": {
+        "uid": "supercheap-auto",
+        "type": "case_study"
+      }
+    },
+    {
+      "card_link_category": {
+        "richText": [
+          {
+            "type": "heading4",
+            "text": "Professional services",
+            "spans": []
+          }
+        ],
+        "text": "Professional services"
+      },
+      "card_link_image": {
+        "url": "https://images.prismic.io/yarno/01a42ee9-185e-4fb0-b2b4-48a4e329fe7f_grant.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "card_link_content": {
+        "richText": [
+          {
+            "type": "paragraph",
+            "text": "Grant Broadcasters operate 52 commercial broadcast stations across every state and territory in Australia, including 5 in joint-venture with Capital Radio Network. They use Yarno's structured onboarding to help their new hires hit their numbers quicker.",
+            "spans": []
+          }
+        ]
+      },
+      "card_link_label": "Read their story",
+      "card_link_link": {
+        "uid": "grant-broadcasters",
+        "type": "case_study"
+      }
+    }
+  ]
+}

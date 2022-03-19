@@ -1,0 +1,132 @@
+{
+  "slice_label": null,
+  "slice_type": "card_list",
+  "items": [
+    {
+      "card_image": {
+        "url": "https://images.prismic.io/yarno/f461cd49-f953-4238-97a2-9da3a6914441_Brain.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "card_content": {
+        "richText": [
+          {
+            "type": "heading2",
+            "text": "Beginner's mind",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Cultivate an attitude of openness, curiosity and eagerness.",
+            "spans": [
+              {
+                "start": 0,
+                "end": 59,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "\"In the beginner's mind there are many possibilities, in the expert's mind there are few.\" – Shunryu Suzuki",
+            "spans": [
+              {
+                "start": 0,
+                "end": 91,
+                "type": "em"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "card_image": {
+        "url": "https://images.prismic.io/yarno/ba8d49b3-5764-4c4f-b79f-48b149cdea91_Robot.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "card_content": {
+        "richText": [
+          {
+            "type": "heading2",
+            "text": "Ever forward",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "We can always do better.",
+            "spans": [
+              {
+                "start": 0,
+                "end": 24,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "That is why we give and receive feedback courageously and aim for progress over perfection. A great company never arrives, never believes that it is good enough.",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "card_image": {
+        "url": "https://images.prismic.io/yarno/51651b87-e555-42f8-886b-fb8ec2c853f2_Light_bulb.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "card_content": {
+        "richText": [
+          {
+            "type": "heading2",
+            "text": "Delight the customer",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Yarno exists to delight our customers.",
+            "spans": [
+              {
+                "start": 0,
+                "end": 38,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "We owe it to them to tirelessly work toward their goals as businesses, and as individuals. Use this as a filter - whatever you're working on, think to yourself: will this delight the customer?",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "card_image": {
+        "url": "https://images.prismic.io/yarno/b67e8072-a2b4-40b3-aa5d-a7f355006918_Ribbon_winner.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "card_content": {
+        "richText": [
+          {
+            "type": "heading2",
+            "text": "Check your ego",
+            "spans": []
+          },
+          {
+            "type": "paragraph",
+            "text": "Our egos give us our personality and character - they make us!",
+            "spans": [
+              {
+                "start": 0,
+                "end": 62,
+                "type": "strong"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Though they can also stand in the way as we learn and grow. We try to be mindful of those times when we feel defensive or inferior and use it as an opportunity to check our ego.",
+            "spans": []
+          }
+        ]
+      }
+    }
+  ]
+}

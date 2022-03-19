@@ -1,0 +1,14 @@
+{
+  "id": "92e4a0ec-a9fa-51ac-ae93-1aa4bb80a813",
+  "primary": {
+      "background_primary_image": {
+          "alt": "Landscape image",
+          "url": "https://images.prismic.io/yarno/a4ae93ef-3375-4624-b134-201372644845_landscape.png?auto=compress%2Cformat&fit=max&q=50"
+      },
+      "background_primary_colour": "#25c1a9",
+      "background_primary_image_height": 253,
+      "background_primary_image_width": 1304
+  },
+  "slice_label": null,
+  "slice_type": "background_image"
+}

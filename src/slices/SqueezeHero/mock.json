@@ -1,0 +1,25 @@
+{
+  "id": "6674ba6f-9178-5d4d-ab8a-44b1049f73f5",
+  "slice_type": "squeeze_hero",
+  "primary": {
+      "squeeze_hero_content": {
+          "richText": [
+              {
+                  "type": "heading1",
+                  "text": "Fast and effective Australian Consumer Law training",
+                  "spans": []
+              },
+              {
+                  "type": "heading2",
+                  "text": "Violating the Australian Consumer Law (\"ACL\") will hurt your business, your brand, and your wallet. Do your staff know their obligations? Yarno ensures they do.",
+                  "spans": []
+              }
+          ]
+      },
+      "squeeze_hero_image": {
+          "url": "https://images.prismic.io/yarno/a4ae93ef-3375-4624-b134-201372644845_landscape.png?auto=compress%2Cformat&fit=max&q=50",
+          "alt": "Landscape"
+      },
+      "squeeze_hero_image_padding": false
+  }
+}

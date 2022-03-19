@@ -1,0 +1,73 @@
+{
+  "id": "2a74bd91-3b2d-5a5a-994d-cc0498fcb1a4",
+  "primary": {
+    "header_button_text": "Get started",
+    "header_button_link": {
+      "link_type": "Document",
+      "uid": "contact-us"
+    },
+    "header_image": {
+      "url": "https://images.prismic.io/yarno/77d2653c-e503-40c7-b353-7a44a4f08a20_professional_services.png?auto=compress%2Cformat&fit=max&q=50",
+      "alt": null
+    },
+    "header_subtitle": {
+      "richText": [
+        {
+          "type": "paragraph",
+          "text": "Train your team on",
+          "spans": [
+            {
+              "start": 0,
+              "end": 18,
+              "type": "strong"
+            }
+          ]
+        }
+      ]
+    },
+    "header_title": {
+      "richText": [
+        {
+          "type": "heading2",
+          "text": "The end-to-end training solution that changes behaviour",
+          "spans": []
+        }
+      ]
+    }
+  },
+  "slice_type": "industry_header",
+  "items": [
+    {
+      "header_checklist": {
+        "richText": [
+          {
+            "type": "list-item",
+            "text": "Compliance",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Soft skills",
+            "spans": []
+          }
+        ]
+      }
+    },
+    {
+      "header_checklist": {
+        "richText": [
+          {
+            "type": "list-item",
+            "text": "Leadership",
+            "spans": []
+          },
+          {
+            "type": "list-item",
+            "text": "Appropriate workplace behaviour",
+            "spans": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "92e4a0ec-a9fa-51ac-ae93-1aa4bb80a813",
+  "slice_label": null,
+  "slice_type": "logo_cloud",
+  "items": [
+      {
+          "logo_cloud_image": {
+              "alt": null,
+              "url": "https://images.prismic.io/yarno/bc4732a9-45fe-4278-bf31-7a0f472172e2_sca.png?auto=compress%2Cformat&fit=max&q=50"
+          }
+      },
+      {
+          "logo_cloud_image": {
+              "alt": null,
+              "url": "https://images.prismic.io/yarno/de0d0718-049c-4cbd-897a-fabc6f48cdbd_don.png?auto=compress%2Cformat&fit=max&q=50"
+          }
+      },
+      {
+          "logo_cloud_image": {
+              "alt": null,
+              "url": "https://images.prismic.io/yarno/97628857-e987-47d6-856c-f29d73df227a_grant_broadcasters.png?auto=compress%2Cformat&fit=max&q=50"
+          }
+      },
+      {
+          "logo_cloud_image": {
+              "alt": null,
+              "url": "https://images.prismic.io/yarno/6166ba0b-94cd-42da-a1af-8cf2d24a7a59_woolworths.png?auto=compress%2Cformat&fit=max&q=50"
+          }
+      },
+      {
+          "logo_cloud_image": {
+              "alt": null,
+              "url": "https://images.prismic.io/yarno/4f3c2501-6371-4b7f-a4b2-c12bc81ad930_rsm.png?auto=compress%2Cformat&fit=max&q=50"
+          }
+      },
+      {
+          "logo_cloud_image": {
+              "alt": null,
+              "url": "https://images.prismic.io/yarno/149fe191-1942-422a-b36d-46cd9421da36_rft.png?auto=compress%2Cformat&fit=max&q=50"
+          }
+      }
+  ]
+}

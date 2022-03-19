@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,500,600|Raleway:300,500,700");
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1.45;
+  color: #333;
+}
+
+li,
+p {
+  color: #595959;
+}
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+a {
+  color: rgb(37, 193, 169);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 2.75rem 0 1rem;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.4rem;
+}
+
+h3 {
+  font-size: 2.2rem;
+}
+
+h4 {
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.92rem;
+}
+
+p.larger {
+  font-size: 1.8rem;
+}
+
+small,
+.text_small {
+  font-size: 1.413rem;
+}
+
+@media screen and (min-width: 960px) {
+  body {
+    font-size: 1.8rem;
+  }
+
+  h1 {
+    margin-top: 0;
+    font-size: 4.883rem;
+  }
+
+  h2 {
+    font-size: 3.906rem;
+  }
+
+  h3 {
+    font-size: 3.125rem;
+  }
+
+  h4 {
+    font-size: 2.501rem;
+  }
+
+  h5 {
+    font-size: 2rem;
+  }
+
+  p.larger {
+    font-size: 2rem;
+  }
+
+  small,
+  .text_small {
+    font-size: 1.28rem;
+  }
+}
+
+@media screen and (min-width: 1220px) {
+  body {
+    font-size: 2rem;
+  }
+
+  p.larger {
+    font-size: 2rem;
+  }
+}

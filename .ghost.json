@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://blog.yarno.com.au",
+    "contentApiKey": "07bc1f0264b9a7879835e7e888"
+  },
+  "production": {
+    "apiUrl": "https://blog.yarno.com.au",
+    "contentApiKey": "07bc1f0264b9a7879835e7e888"
+  }
+}
